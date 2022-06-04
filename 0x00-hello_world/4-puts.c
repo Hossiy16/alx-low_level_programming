@@ -1,4 +1,7 @@
 #include <stdio.h>
+/**
+*description : program to print some text
+*/
 int main(void)
 {
 puts("\"Programming is like building a multilingual puzzle");
